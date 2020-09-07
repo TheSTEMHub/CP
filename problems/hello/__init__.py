@@ -13,5 +13,5 @@ def Towfeq():
 
 @check50.check(exists)
 def brian():
-    """responds to name Veronica."""
-    check50.run("./hello").stdin("Brian").stdout("Brian").exit()
+    """responds to name Yasmine."""
+    check50.run("./hello").stdin("Yasmine").stdout("Yasmine").exit()
